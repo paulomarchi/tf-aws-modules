@@ -1,0 +1,8 @@
+aws_profile = "<AWS_PROFILE>"
+owner = "<Your Name>"
+project = "<Project Name>"
+key_name = "<AWS_KEYPAIR>"
+aws_region = "<REGION>"
+aws_azs = ["<>", "<>", "<>"]
+vpc_cidr_blocks = ["<>"]
+subnets_cidr_blocks = ["<>", "<>", "<>"]
